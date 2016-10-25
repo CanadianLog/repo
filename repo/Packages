@@ -2,7 +2,7 @@ Package: com.canadianlog.ovorespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CanadianLog
-Filename: deb-packed/com.canadianlog.com.canadianlog.ovorespringlogo.deb
+Filename: debs/com.canadianlog.ovorespringlogo.deb
 Size: 17600444
 MD5sum: 6f8b5defdf1d248bd48dff3cec89ec74
 SHA1: 82e63b4fc03e63634cbf4e598d5a752bebccd727
