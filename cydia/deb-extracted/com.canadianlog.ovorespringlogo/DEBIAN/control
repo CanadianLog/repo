@@ -1,0 +1,10 @@
+Package: com.canadianlog.ovobootlogo
+Name: OVO Respring Logo for Springy
+Version: 1.0
+Section: Springy
+Maintainer: CanadianLog
+Architecture: iphoneos-arm
+Description: OVO Respring Logo for Springy
+Author: CanadianLog
+Sponsor: CanadianLog
+Homepage: https://github.com/canadianlog/ovorespringlogo

@@ -1,0 +1,15 @@
+Package: com.canadianlog.ovorespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CanadianLog
+Filename: deb-packed/com.canadianlog.com.canadianlog.ovorespringlogo.deb
+Size: 17600444
+MD5sum: 6f8b5defdf1d248bd48dff3cec89ec74
+SHA1: 82e63b4fc03e63634cbf4e598d5a752bebccd727
+SHA256: be2b21f98ce0d817f3cec52e7a2bd8a18c42f4b7217bd2b32ee9a962e6c6f0ab
+Section: Springy
+Homepage: https://github.com/canadianlog/
+Description: OVO Respring Logo for Springy
+Author: CanadianLog
+Name: OVO Respring Logo for Springy
+Sponsor: CanadianLog
