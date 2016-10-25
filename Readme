@@ -13,8 +13,8 @@ Extract the contents into a subfolder on your website. If you're using [Github P
 
 #### 3. Personalize
 Edit `Release` file. Modify the items pointed by `<--`
-    
-    Origin: Reposi3  <-- 
+
+    Origin: Reposi3  <--
     Label: Reposi3   <--
     Suite: stable
     Version: 1.0
@@ -32,7 +32,7 @@ At this point your repo is basically ready to be added into Cydia. You can also 
 #### 1. A basic depiction page
 Let's start with a simple one. First, of course, add your `.deb` files into the `debs` folder. Then, inside the `depictions` folder, duplicate the folder `com.supermamon.oldpackage`. You will see 2 xml files -- `info.xml` and `changelog.xml`. Edit the 2 files and put in the information regarding you package. The tags are pretty much self-explanatory. Contact [@reposi3](https://twitter.com/reposi3) or [@supermamon](https://twitter.com/supermamon) for questions.
 
-`info.xml`. 
+`info.xml`.
 ```xml
 <package>
 	<id>com.supermamon.oldpackage</id>
