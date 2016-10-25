@@ -1,0 +1,13 @@
+Package: OVOBootLogo
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: CanadianLog <canadianlog@gmail.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ovobootlogo
+Size: 1,982,440
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: OVO Boot Logo for Springy!
+Name: OVO Boot Logo
+Author: CanadianLog <canadianlog@gmail.com>
+Depiction: https://canadianlog.github.io/repo/depictions/?p=OVOBootLogo
