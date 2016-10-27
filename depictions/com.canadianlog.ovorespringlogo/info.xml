@@ -1,0 +1,33 @@
+<package>
+	<id>com.canadianlog.ovorespringlogo</id>
+	<name>OVO Respring Logo for Springy</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>OVO Respring Logo for Springy</description>
+		<description>Settings for Springy in Screenshots</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Preview of Respring Logo</description>
+			<image>Preview.gif</image>
+		</screenshot>
+		<screenshot>
+			<description>Settings for Springy</description>
+			<image>Springy.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
