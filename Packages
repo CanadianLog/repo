@@ -8,8 +8,9 @@ MD5sum: b7ad0761aec04f52abbbdcf4603f6572
 SHA1: 2752a4af9a16714145fb7e288eb0c49d0ec28557
 SHA256: db5dce899b4bbe848d6512d629f7e1f5f86554385ea115201ce22392a01e1560
 Section: Addons (Springy)
-Homepage: https://github.com/canadianlog/
+Homepage: https://canadianlog.github.io/repo/
 Description: OVO Respring Logo for Springy
 Author: CanadianLog
 Name: OVO Respring Logo for Springy
 Sponsor: CanadianLog
+Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.ovorespringlogo
