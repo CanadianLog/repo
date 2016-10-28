@@ -14,3 +14,20 @@ Author: CanadianLog
 Name: OVO Respring Logo for Springy
 Sponsor: CanadianLog
 Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.ovorespringlogo
+
+Package: com.canadianlog.blueapplelogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CanadianLog
+Filename: debs/com.canadianlog.blueapplelogo.deb
+Size: 95172
+MD5sum: d80851ed0c94a54c08dcc21ba765fbac
+SHA1: 2752a4af9a16714145fb7e288eb0c49d0ec28557
+SHA256: db5dce899b4bbe848d6512d629f7e1f5f86554385ea115201ce22392a01e1560
+Section: Addons (Springy)
+Homepage: https://canadianlog.github.io/repo/
+Description: WWDC OCT 2016 Blue for Springy
+Author: CanadianLog
+Name: WWDC OCT 2016 Blue for Springy
+Sponsor: CanadianLog
+Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.blueapplelogo
