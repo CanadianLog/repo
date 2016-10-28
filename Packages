@@ -22,8 +22,8 @@ Maintainer: CanadianLog
 Filename: debs/com.canadianlog.blueapplelogo.deb
 Size: 95172
 MD5sum: d80851ed0c94a54c08dcc21ba765fbac
-SHA1: 2752a4af9a16714145fb7e288eb0c49d0ec28557
-SHA256: db5dce899b4bbe848d6512d629f7e1f5f86554385ea115201ce22392a01e1560
+SHA1: b3052ed6ed3e7ab3bbcc75f02f6a1144d76d8516
+SHA256: 439de44815326faec51923785bfd93683bc585bd33e13769973670fd71f0f979
 Section: Addons (Springy)
 Homepage: https://canadianlog.github.io/repo/
 Description: WWDC OCT 2016 Blue for Springy
