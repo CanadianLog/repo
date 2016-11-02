@@ -48,3 +48,20 @@ Author: CanadianLog
 Name: Copper Loader Respring Logo for Springy
 Sponsor: CanadianLog
 Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.copperloader
+
+Package: com.canadianlog.ovoloadingbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CanadianLog
+Filename: debs/com.canadianlog.ovoloadingbar.deb
+Size: 610388
+MD5sum: ac1366bec566ae862fb65116732fe31a
+SHA1: ca2fb44ee46b7ee2318ddaafa4bc78ed9ba72a05
+SHA256: a25f56ceb0a906c9d4b985d403e167dfabdd19d840741860cbb878d29f6532cc
+Section: Addons (Springy)
+Homepage: https://canadianlog.github.io/repo/
+Description: OVO Loading Bar Respring Logo for Springy
+Author: CanadianLog
+Name: OVO Loading Bar Respring Logo for Springy
+Sponsor: CanadianLog
+Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.ovoloadingbar
