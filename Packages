@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CanadianLog
 Filename: debs/com.canadianlog.ovorespringlogo.deb
-Size: 1979384
-MD5sum: b7ad0761aec04f52abbbdcf4603f6572
-SHA1: 2752a4af9a16714145fb7e288eb0c49d0ec28557
-SHA256: db5dce899b4bbe848d6512d629f7e1f5f86554385ea115201ce22392a01e1560
+Size: 2335596
+MD5sum: 6245804c0a03e6d38a493f49da88fe3d
+SHA1: c20aa686b92332f483f16cbc5d74fdff99836e71
+SHA256: ae8af069fd31e31a434d09c6caf654f9bb5a7fd8d982280026864c9de947202a
 Section: Addons (Springy)
 Homepage: https://canadianlog.github.io/repo/
 Description: OVO Respring Logo for Springy
@@ -31,3 +31,20 @@ Author: CanadianLog
 Name: WWDC OCT 2016 Blue for Springy
 Sponsor: CanadianLog
 Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.blueapplelogo
+
+Package: com.canadianlog.copperloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CanadianLog
+Filename: debs/com.canadianlog.copperloader.deb
+Size: 696952
+MD5sum: 25ca12d4ee6c0fe514af1188175f6232
+SHA1: 867d946131369f3796b338d48e144615314fea2e
+SHA256: 213c35f727ab57bbdedcedf848b4d17bb8dac52bae32b51f4c3ed2161a114fd1
+Section: Addons (Springy)
+Homepage: https://canadianlog.github.io/repo/
+Description: Copper Loader Respring Logo for Springy
+Author: CanadianLog
+Name: Copper Loader Respring Logo for Springy
+Sponsor: CanadianLog
+Depiction: https://canadianlog.github.io/repo/depictions/?p=com.canadianlog.copperloader
